@@ -1,0 +1,10 @@
+ma_final.dbf (application/octet-stream) 1313752 bytes.
+ma_final.prj (text/plain; charset=US-ASCII) 145 bytes.
+ma_final.sbn (application/octet-stream) 22308 bytes.
+ma_final.sbx (application/octet-stream) 1460 bytes.
+ma_final.shp (application/octet-stream) 12571900 bytes.
+ma_final.shx (application/octet-stream) 17420 bytes.
+ma_geo_merge.tab (text/tab-separated-values) 667641 bytes.
+MA_notes.pdf (application/pdf) 77874 bytes.
+MA_Shapefile.zip (application/zip) 7336183 bytes.
+ma_vote_merge.tab (text/tab-separated-values) 677949 bytes.
